@@ -1,3 +1,4 @@
 data/final/
 data/processed/
 data/pre-raw/
+src/best_fingerprint_model.h5
