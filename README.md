@@ -29,7 +29,7 @@ The research uses publicly available fingerprint datasets from:
 - Vincent Oliver Limarus
 - Marcello Arvel Sudarta
 - Andrew Aldrich Lee
-- Anderies Notanto
+- Anderies 
 
 School of Computer Science, Bina Nusantara University, Jakarta, Indonesia
 
@@ -55,4 +55,5 @@ The study evaluates four experimental approaches:
 2. EfficientNetB0 trained exclusively on clean fingerprint images.
 3. VGG16 trained on a combined dataset (80:20 ratio of clean to damaged fingerprints).
 4. VGG16 trained exclusively on clean fingerprint images.
+
 
